@@ -63,7 +63,7 @@ echo
 echo "Configuring vconsole.conf to set a larger font for login shell"
 
 sudo cat <<EOF > /etc/vconsole.conf
-KEYMAP=us
+KEYMAP=pl
 FONT=ter-v32b
 EOF
 
