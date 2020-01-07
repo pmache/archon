@@ -30,7 +30,6 @@ PKGS=(
 
     # UTILITIES -----------------------------------------------------------
 
-    'dropbox'                   # Cloud file storage
     'lastpass'                  # Password manager
     'slimlock'                  # Screen locker
     'oomox'                     # Theme editor
@@ -53,7 +52,6 @@ PKGS=(
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'google-chrome'             # Google Chrome
     
 
     # THEMES --------------------------------------------------------------
